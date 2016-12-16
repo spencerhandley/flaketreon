@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{38416A86-0052-7997-F667-B35EE0C4807B}") = "Flaketreon", "Assembly-CSharp.csproj", "{657D5DB2-A539-4114-F18D-87194DDE9842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657D5DB2-A539-4114-F18D-87194DDE9842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657D5DB2-A539-4114-F18D-87194DDE9842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657D5DB2-A539-4114-F18D-87194DDE9842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657D5DB2-A539-4114-F18D-87194DDE9842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
